@@ -1,8 +1,7 @@
 **CONNECT FOUR 1.0
 (c) 2006 Kamil Rudnicki**
   
-www.widget.czest.pl
-kamil.rudnicki@gmail.com
+http://rudnicki.info
 
 ![Alt text](/source/Help/screen.jpg?raw=true "Optional Title")
 	
